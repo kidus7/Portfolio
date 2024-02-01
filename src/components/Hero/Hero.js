@@ -58,7 +58,7 @@ function Hero() {
         <Button
           onClick={() =>
             (window.location =
-              "https://drive.google.com/uc?export=view&id=1M8sQ5U4JxGoUn0vot75jnLFvmK4jwlU1")
+              "https://drive.google.com/uc?export=view&id=1mmBw1pu0LHgfmdzh6VyYMwXAjK2blkUM")
           }
         >
           <>My CV</>

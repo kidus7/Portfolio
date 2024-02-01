@@ -45,13 +45,22 @@ export const projects = [
     id: 4,
   },
   {
+    title: "Football Matches Scraper Bot",
+    description:
+      "This Telegram bot is your go-to source for all things football. It is powered by data which is scraped from the BBC Sport website using web-scraping, it delivers timely and accurate information on football matches across the globe. From fixtures to final scores, this bot got you covered. Experience the convenience of getting updates directly through Telegram.",
+    image: "/images/fmtb.png",
+    tags: [ "Node", "Cheerio", "Telegraf", "Vercel"],
+    source: "https://football-matches-telegram-bot.vercel.app",
+    id: 5,
+  },
+  {
     title: "More on my github",
     description:
       "You can find the rest of my projects directly on my github, feel free to take a look !",
     image: "/images/gitprofile.png",
     tags: ["GitHub"],
     source: "https://github.com/kidus7",
-    id: 5,
+    id: 6,
   },
 ];
 
