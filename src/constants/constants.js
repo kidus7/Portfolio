@@ -14,7 +14,7 @@ export const projects = [
       "Alen is a React Next.js-based website that serves as a bridge between homeowners and skilled service providers (gig workers). It simplifies the process of finding and connecting with professionals for various home solutions. With a user-friendly interface, transparent ratings and reviews, secure payments, and real-time communication, Alen ensures that clients and service providers can efficiently collaborate to meet their home improvement needs.",
     image: "/images/alenlanding.png",
     tags: ["React", "NextJS", "Mongo", "Node"],
-    source: "https://alenplc.com/",
+    source: "https://test.alenplc.com/",
     id: 1,
   },
   {
@@ -73,8 +73,8 @@ export const TimeLineData = [
   { year: 2016.2017, text: "Started studying software engineering at AASTU" },
   // { year: 2020, text: "CORONA" },
   { year: 2021, text: "Started looking for jobs and professional experience" },
-  { year: 2022, text: "Worked on web applications" },
-  { year: 2023, text: "Working at Alen Home Solutions as a software developer" },
+  { year: 2022, text: "Worked on various web applications" },
+  { year: 2023, text: "Working at Alen Home Solutions as a full stack software developer" },
 ];
 
 export const TimeLineDataFR = [
