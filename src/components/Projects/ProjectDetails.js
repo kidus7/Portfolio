@@ -6,7 +6,7 @@ const ProjectDetails = () => {
 //   const projectId = // Get the project ID (e.g., from URL parameters)
 
   // Retrieve project details based on the project ID
-//   const projectDetails = // Fetch or retrieve project details based on ID
+//   const projectDetails = // Fetch or retrieve project details based on ID 
 
   return (
     <div>
