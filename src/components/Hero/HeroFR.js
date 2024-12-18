@@ -41,8 +41,8 @@ function Hero() {
           onClick={
             () =>
               (window.location =
-                "https://drive.google.com/uc?export=download&id=1BT0-D38wST4M7ewtjsWPl1QxalvNHnpA")
-            //https://drive.google.com/uc?export=download&id=17tKOhx1MYfXvIFGFKZvj5f8Gnuw1IuCi CV CHEF DE PROJET
+                "https://drive.google.com/uc?export=download&id=1VcvS0b2mnixPKHkjCoXMxJMV6Fpd3B6y")
+            //https://drive.google.com/uc?export=download&id=1VcvS0b2mnixPKHkjCoXMxJMV6Fpd3B6y CV CHEF DE PROJET
           }
         >
           <>Mon CV</>
