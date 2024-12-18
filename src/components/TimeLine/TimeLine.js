@@ -67,7 +67,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Hey, my name is Kidus Anteneh, I am a 24 years old software
+        Hey, my name is Kidus Anteneh, I am a 26 years old software
         developer. I have worked on different web applications recently involving various javascript frameworks and databases like mongodb and firebase. I'm a hard working software enthusiast who...
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
